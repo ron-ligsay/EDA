@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=o7VCeCxHCTI&list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IE
 ## Python: T-test, one-way ANOVA and P-value concepts  :Ttest oneway ANOVA and P-alue concepts.ipynb:
 https://www.youtube.com/watch?v=RqU08Ufh_Js&list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&index=5
 
+
+## Python: t-test, one-way ANOVA, categorical features :Ttest oneway ANOVA categorical features.ipynb:
+https://www.youtube.com/watch?v=u3Hwt_jbbTc&list=PLe9UEU4oeAuV7RtCbL76hca5ELO_IELk4&index=6
+
+
