@@ -89,3 +89,11 @@ standard deviation = sqrt(variance)
 
 **Interquartile range (IQR)**
 - IQR is less affected by extreme values
+
+## What are the Chances?
+
+#### Probability
+- the chance that an event will occur
+
+**Independent Probability**
+- two events are independently if the probability of the second event does not change based on the outcome of the first event
