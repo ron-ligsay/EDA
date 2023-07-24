@@ -1,5 +1,11 @@
 # Statistics # (review)
 
+- Summary Statistics
+- Probability and  Distributions
+- More Distributions and the  Central Limit Theorem
+- Correlation and Hypothesis Testing
+
+
 ## What is statistics
 - **The field of statistics** - the practice and study of collecting and analyzing 
 
