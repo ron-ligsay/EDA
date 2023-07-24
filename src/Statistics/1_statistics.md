@@ -62,4 +62,30 @@ mean = sum of all values / count of all values
 #### Outliers
 - values that are far away from the rest of the data
 
+## Measure of Spread
+- how spread out the data is
 
+why is spread important?
+- spread measures the variety of our data
+
+**range**
+range = max - min
+
+**Variancce** 
+- the average of the squared differences from the mean
+
+variance = sum of (x - mean)^2 / count of all values
+
+**Standard deviation**
+
+standard deviation = sqrt(variance)
+
+* standard deviation close to zero = data clustered around the mean
+
+**Quartiles**
+- splitting the data into four equal parts
+
+- using box plots to visualize
+
+**Interquartile range (IQR)**
+- IQR is less affected by extreme values
