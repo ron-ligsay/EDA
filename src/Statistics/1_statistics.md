@@ -43,3 +43,23 @@ Examples:
 
 
 ## Measures of Center
+
+Why are measures of center useful?
+- average numbebr of sales order per month?
+- typical cost of a house
+- most commmon hair color
+
+#### Mean
+- the average of all values
+mean = sum of all values / count of all values
+
+#### Median
+- the middle value of a sorted list of values
+
+#### Mode
+- most frequent value
+
+#### Outliers
+- values that are far away from the rest of the data
+
+
