@@ -1,4 +1,0 @@
-
-
-//ignore csv files
-*.csv
